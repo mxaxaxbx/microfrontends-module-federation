@@ -1,0 +1,18 @@
+**/node_modules/
+**/dist/
+**/build/
+
+# IDEs and editors
+.idea
+.vscode
+
+# misc
+.env
+
+# yarn
+yarn.lock
+
+# npm
+package-lock.json
+
+
