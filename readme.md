@@ -7,6 +7,8 @@ The main project is mfe2 and mfe1 is the sub.<br/>
 Run the sub at first
 ```
 cd mfe1
+npm i
+npm i --save-dev webpack webpack-cli webpack-server html-webpack-plugin babel-loader webpack-dev-server
 webpack serve
 ```
 
@@ -14,6 +16,8 @@ Then
 
 ```
 cd mfe2
+npm i
+npm i --save-dev webpack webpack-cli webpack-server html-webpack-plugin babel-loader webpack-dev-server css-loader
 webpack serve
 ```
 
