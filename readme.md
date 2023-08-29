@@ -18,3 +18,7 @@ webpack serve
 ```
 
 * Or change the scripts in the **package.json** file in both projects
+
+___
+
+Took from the https://levelup.gitconnected.com/micro-frontends-step-by-step-using-react-webpack-5-and-module-federation-e4b9d840ec71
